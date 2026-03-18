@@ -8,6 +8,12 @@ This project was developed as part of my practical learning journey in **Python,
 
 ---
 
+# Automation Demo
+
+![Automation Demo](images/automacao.gif)
+
+---
+
 # Project Overview
 
 Many business workflows require **manually transferring data from spreadsheets into web systems**, which is repetitive and prone to human error.
